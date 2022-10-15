@@ -32,6 +32,14 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Max source file
+*.maxpat linguist-detectable=true
+*.maxpat linguist-documentation=false
+*.maxpat linguist-language=Max
+# Max project source file
+*.maxproj linguist-detectable=true
+*.maxproj linguist-documentation=false
+*.maxproj linguist-language=Max
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +172,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Saturday, October 15th at 1:44 pm PST)
+# Line count (including blank lines and compiler line): 179
 # End of script
